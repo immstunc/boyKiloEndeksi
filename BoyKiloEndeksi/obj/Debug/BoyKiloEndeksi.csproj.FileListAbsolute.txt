@@ -1,0 +1,8 @@
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\BoyKiloEndeksi.exe.config
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\BoyKiloEndeksi.exe
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\BoyKiloEndeksi.pdb
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\BoyKiloEndeksi.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\BoyKiloEndeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\BoyKiloEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\BoyKiloEndeksi.exe
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\BoyKiloEndeksi.pdb
